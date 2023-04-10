@@ -1,0 +1,9 @@
+main{
+    margin-top: 50px;
+    min-height: 100vh; /*altura total do view*/
+}
+
+img{
+    width: 60%;
+    height: 300px;   
+}

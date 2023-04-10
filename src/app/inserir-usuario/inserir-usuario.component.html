@@ -1,0 +1,21 @@
+<main>
+  <!--needs-validation: classe bootstrap que chama validacao / novalidate: atributo que?-->
+  <!--nao deixa enviar em branco-->
+  <form class="needs-validation" novalidate>
+
+      <div class="row">
+        <div class="col">
+          <label for="nome">Nome</label>
+          <input type="text" class="form-control" placeholder="Nome" required>
+          <div class="invalid-feedback">Preencha o campo</div>
+          <div class="valid-feedback">Tudo certo!</div>
+        </div>
+
+        <div class="col">
+          <label for="idade">Idade</label>
+          <input type="text" class="form-control" placeholder="Idade" required>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+</main>

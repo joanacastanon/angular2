@@ -1,0 +1,36 @@
+main{
+    margin-top: 50px;
+    min-height: 100vh; /*altura total do view*/
+}
+
+
+button{
+    border-radius: 10px; /*bordinhas arredondadas*/
+    margin: 10px;
+    cursor: pointer;    /*fazer maozinha aparecer*/
+    }
+
+#botaocadastro{
+    font-size: larger;
+    background-color: #286141;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+#idsenha{
+    font-size: larger;
+    background-color: #faf518;
+    margin: 20px;
+    padding: 20px;
+}
+
+#botaonaocadastro{
+    font-size: larger;
+    background-color: #ff7809;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+
+}
+

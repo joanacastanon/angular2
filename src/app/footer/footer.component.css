@@ -1,0 +1,7 @@
+footer{
+    min-height: 60px;
+    background-color: #ff7809;
+    color: white;
+    text-align: center;
+    line-height: 60px; /*como é igual ao height, centraliza verticalmente*/
+}
